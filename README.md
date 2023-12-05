@@ -1,1 +1,2 @@
 # A-program-for-solving-a-given-nonlinear-equation-by-Newton-s-method
+This code implements Newton's method for solving a given nonlinear equation. You can rewrite the code by placing your equation and find its solution. Newton's method, like other methods similar to it, uses the representation of an equation in the form of a function and the construction of its graph. So I recommend plotting the function presented in the code to better understand how the algorithm works.
